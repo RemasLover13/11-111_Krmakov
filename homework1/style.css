@@ -1,0 +1,77 @@
+.triangle {
+    text-align: center;
+}
+
+.shape {
+    text-align: center;
+    display: inline-block;
+}
+
+#cent {
+    padding-left: 25%;
+}
+
+.center {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.itis_tr4 {
+    position:relative !important;
+    top: -25px !important;
+}
+
+.itis_tr5 {
+    position:relative !important;
+    top: -15px !important;
+}
+
+.mail {
+    position: relative !important;
+    bottom: 10px !important;
+    left: 18px;
+}
+
+.bot {
+    display: inline;
+}
+
+.td_width {
+    width: 250px;
+    height: 83px;
+}
+
+.mal {
+    position: relative !important;
+    left: 100px !important;
+    top: -12px;
+        
+}
+
+.tr6 {
+    position: relative !important;
+    top: 10px;
+}
+
+.tr7 {
+    padding-bottom: 7px;
+}
+
+.up {
+    position: relative !important;
+    top: -21px;
+}
+
+.down {
+    position: relative !important;
+    top: 19px;
+}
+
+tr2_c {
+    height: 50px;
+    
+}
+
+
+
