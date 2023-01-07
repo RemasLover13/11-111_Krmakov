@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f996117-e284-4ecd-b9fd-bb7a60d6b74f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IO/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/display/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/EntityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/TileType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphics/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphics/SpriteSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphics/TextureAtlas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/ResourceLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/IO/Input$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/IO/Input$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/IO/Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/display/Display.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/game/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/game/EntityType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/game/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/game/Level.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/game/Player$Heading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/game/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/game/Tile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/game/TileType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/graphics/Sprite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/graphics/SpriteSheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/graphics/TextureAtlas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/utils/ResourceLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/utils/Time.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/utils/Utils.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.main.Main" />
+      <module name="MyGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f996117-e284-4ecd-b9fd-bb7a60d6b74f" name="Changes" comment="" />
+      <created>1673124188405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673124188405</updated>
+      <workItem from="1673124189691" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
